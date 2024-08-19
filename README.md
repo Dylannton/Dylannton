@@ -24,7 +24,7 @@
 <h2 align="center">Get in Touch! 📬
 <Br></Br>
 <p align="center">
-<a href="www.linkedin.com/in/dylan-fernández-a9b742320" target="blank"><img align="center" src="https://img.shields.io/badge/Dylan Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:dylanizt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/dylanizt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Dylannton" target="blank"><img align="center" src="https://img.shields.io/badge/Dylannton-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="www.linkedin.com/in/dylan-fernández/" target="blank"><img align="center" src="https://img.shields.io/badge/Dylan Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:dylanizt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/dylanizt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Dylannton" target="blank"><img align="center" src="https://img.shields.io/badge/Dylannton-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <Br>
